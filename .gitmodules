@@ -1,0 +1,9 @@
+[submodule "agent"]
+	path = agent
+	url = https://github.com/mrzaxaryan/Position-Independent-Agent
+[submodule "relay"]
+	path = relay
+	url = https://github.com/mrzaxaryan/relay
+[submodule "cc"]
+	path = cc
+	url = https://github.com/mrzaxaryan/cc
