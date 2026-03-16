@@ -7,3 +7,6 @@
 [submodule "cc"]
 	path = cc
 	url = https://github.com/mrzaxaryan/cc
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nostdlib/frontend
